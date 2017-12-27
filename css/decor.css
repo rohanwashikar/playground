@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+}
+p#id3 {  
+    font-size: 36px;
+    color: lightblue;
+}
+p.id4 {
+    font-size: 36px;
+    color: coral;
+}
+ul {
+    font-family: cursive;
+    color: hotpink;
+
+}
+li.id1 {
+    color:lightgreen;
+}
+li.id2 {
+    color: red;
+}
+body {
+    
+    background: url("../images/squid.jpg");
+    background-repeat: no-repeat;
+}
+
+input#label1 {
+    background-color: green;
+}
